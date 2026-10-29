@@ -71,7 +71,7 @@ O objetivo deste checkpoint é aplicar os conceitos de **Flexbox, pseudo-classes
 - `display: block` e `display: none` — controle da exibição dos elementos.
 - `content` — criação de conteúdo decorativo por meio de pseudo-elementos.
 
-## integrante
+## Integrante
 **Luiza de Freitas Benevides**
 
 ## 🔗 Links
