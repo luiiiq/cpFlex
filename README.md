@@ -71,11 +71,11 @@ O objetivo deste checkpoint é aplicar os conceitos de **Flexbox, pseudo-classes
 - `display: block` e `display: none` — controle da exibição dos elementos.
 - `content` — criação de conteúdo decorativo por meio de pseudo-elementos.
 
-## integrante
+## Integrante
 **Luiza de Freitas Benevides**
 
 ## 🔗 Links
-- **Repositório no GitHub:** [Adicionar link do repositório](https://github.com/luiiiq/cpFlex)
-- **Site publicado no GitHub Pages:** [Adicionar link do site]()
+- **Repositório no GitHub:** [Link do repositório](https://github.com/luiiiq/cpFlex)
+- **Site publicado no GitHub Pages:** [Link do site](https://luiiiq.github.io/cpFlex/)
 
 ---
