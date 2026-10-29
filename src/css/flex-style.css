@@ -28,6 +28,7 @@ h1,p,h2 {
 
 ::selection {
     background: #3B0A12;
+    color: #FFF5E1;
 }
 
 /* ! Header */
